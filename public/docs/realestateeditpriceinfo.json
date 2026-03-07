@@ -1,0 +1,191 @@
+[
+  {
+    "serviceCategory": "PROPERTY WALKTHROUGH",
+    "services": [
+      {
+        "name": "Basic",
+        "videoLength": "1–2 min",
+        "editingIncludes": [
+          "Cut clips",
+          "Basic color correction",
+          "Background music",
+          "Text overlay"
+        ],
+        "priceRangeINR": "1500 – 3000"
+      },
+      {
+        "name": "Standard",
+        "videoLength": "2–5 min",
+        "editingIncludes": [
+          "Smooth transitions",
+          "Color grading",
+          "Text overlays",
+          "Logo intro/outro"
+        ],
+        "priceRangeINR": "3000 – 7000"
+      },
+      {
+        "name": "Premium",
+        "videoLength": "3–6 min",
+        "editingIncludes": [
+          "Cinematic color grading",
+          "Motion graphics",
+          "Map animation",
+          "Advanced transitions"
+        ],
+        "priceRangeINR": "7000 – 15000"
+      }
+    ]
+  },
+  {
+    "serviceCategory": "DRONE FOOTAGE",
+    "services": [
+      {
+        "name": "Basic",
+        "videoLength": "30 sec – 1 min",
+        "editingIncludes": [
+          "Clip cutting",
+          "Basic color correction",
+          "Music sync"
+        ],
+        "priceRangeINR": "800 – 1500"
+      },
+      {
+        "name": "Standard",
+        "videoLength": "1–3 min",
+        "editingIncludes": [
+          "Cinematic cuts",
+          "Color grading",
+          "Text overlays"
+        ],
+        "priceRangeINR": "1500 – 4000"
+      },
+      {
+        "name": "Premium",
+        "videoLength": "2–5 min",
+        "editingIncludes": [
+          "Cinematic transitions",
+          "Motion graphics",
+          "Map animations"
+        ],
+        "priceRangeINR": "4000 – 12000"
+      }
+    ]
+  },
+  {
+    "serviceCategory": "INSTAGRAM / YOUTUBE SHORTS / REELS",
+    "services": [
+      {
+        "name": "Basic",
+        "videoLength": "15–30 sec",
+        "editingIncludes": [
+          "Cuts",
+          "Music",
+          "Simple captions"
+        ],
+        "priceRangeINR": "300 – 800"
+      },
+      {
+        "name": "Standard",
+        "videoLength": "30–60 sec",
+        "editingIncludes": [
+          "Transitions",
+          "Text motion",
+          "Color grading"
+        ],
+        "priceRangeINR": "800 – 2000"
+      },
+      {
+        "name": "Advanced",
+        "videoLength": "30–60 sec",
+        "editingIncludes": [
+          "Motion graphics",
+          "Animated titles",
+          "Brand logo"
+        ],
+        "priceRangeINR": "2000 – 5000"
+      }
+    ]
+  },
+  {
+    "serviceCategory": "REAL ESTATE ADS",
+    "services": [
+      {
+        "name": "Short",
+        "videoLength": "30–60 sec",
+        "editingIncludes": [
+          "Cuts",
+          "Captions",
+          "Music"
+        ],
+        "priceRangeINR": "800 – 2000"
+      },
+      {
+        "name": "Standard",
+        "videoLength": "45–60 sec",
+        "editingIncludes": [
+          "Transitions",
+          "Motion titles",
+          "Color grade"
+        ],
+        "priceRangeINR": "2000 – 5000"
+      },
+      {
+        "name": "Premium",
+        "videoLength": "60–90 sec",
+        "editingIncludes": [
+          "Motion graphics",
+          "Voice overlay",
+          "Multiple formats"
+        ],
+        "priceRangeINR": "5000 – 12000"
+      }
+    ]
+  },
+  {
+    "serviceCategory": "BEFORE & AFTER",
+    "services": [
+      {
+        "name": "Basic",
+        "videoLength": "30–60 sec",
+        "editingIncludes": [
+          "Split-screen",
+          "Simple transitions",
+          "Music"
+        ],
+        "priceRangeINR": "800 – 1500"
+      },
+      {
+        "name": "Standard",
+        "videoLength": "1–2 min",
+        "editingIncludes": [
+          "Cinematic transitions",
+          "Color grading",
+          "Text & arrows"
+        ],
+        "priceRangeINR": "1500 – 3500"
+      },
+      {
+        "name": "Premium",
+        "videoLength": "2–4 min",
+        "editingIncludes": [
+          "Drone footage",
+          "Motion graphics",
+          "Narration",
+          "Branded outro"
+        ],
+        "priceRangeINR": "4000 – 8000"
+      },
+      {
+        "name": "Reels / Shorts",
+        "videoLength": "15–45 sec",
+        "editingIncludes": [
+          "Swipe/morph transitions",
+          "Captions",
+          "Music"
+        ],
+        "priceRangeINR": "500 – 1500"
+      }
+    ]
+  }
+]
