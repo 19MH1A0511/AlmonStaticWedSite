@@ -37,7 +37,7 @@ const HomePage = () => {
     };
 
     const handleGetInTouch = (getInTouch) => {
-        if (getInTouch === "Real Estate Edit Price") {
+        if (getInTouch === "Real Estate Refining") {
             setOpenEditPrice(true); 
         };
     };
